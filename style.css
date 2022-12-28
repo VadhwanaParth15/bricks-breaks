@@ -1,0 +1,40 @@
+body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+p{
+    color: antiquewhite;
+    font-size: larger;
+    margin-top: 20px;
+    padding: 12px 36px;
+}
+.home p{
+    color: yellow;
+    font-size: 120px;
+    text-align: center;
+}
+.home p span{
+    color: red;
+    font-size: 100px;
+    text-align: center;
+}
+.home .btn a{
+    display: inline-block;
+    background: aqua;
+    color: #000;
+    font-size: 25px;
+    padding: 12px 36px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    border-radius: 6px;
+    border: 2px solid #000;
+    
+}
+#a {
+    background-color: white;
+    margin-top: 10rem;
+}
